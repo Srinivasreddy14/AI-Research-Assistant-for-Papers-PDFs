@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain>=0.2.0
+langchain-community
+langchain-google-genai
+langchain-pinecone
+google-generativeai
+pinecone-client
+tiktoken
+PyPDF2
